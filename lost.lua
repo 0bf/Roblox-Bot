@@ -1,7 +1,4 @@
-_G.thingtosay = "FREE | BoogetFling | .gg/GC34hCkpcM"
-_G.thingtosay = "Booget 0496 FOR SCRIPT!"
-_G.thingtosay = "BOOGETFLING W and ITS FREE!"
-_G.thingtosay = "DOWNLOAD BOOGET FLING TODAY!" end
+_G.thingtosay = "FREE | BoogetFling | .gg/GC34hCkpcM" end
 if not _G.shoption then _G.shoption = "largest" end
 wait(5) if not game:IsLoaded() then game.Loaded:Wait() end
 
