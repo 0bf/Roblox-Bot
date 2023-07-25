@@ -184,4 +184,4 @@ dont put both sources all in one
 just do it exactly how i did and it should work.
 ```
 
- -cey.
+ -Mogaly.
