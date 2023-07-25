@@ -171,8 +171,8 @@ end
 
 ```text
 tiktok: @doxer. | @q976
-discord: cey#0002
-youtube: youtube.com/cey痛
+discord: 0bf.
+youtube: youtube.com/channel/UCzfxC6L9Ak_mLUSSH_VsQpQ)
 telegram: @unwaits
 ```
 
