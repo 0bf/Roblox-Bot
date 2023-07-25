@@ -1,5 +1,5 @@
 <p align="center"><img width=12.5% src="https://cdn.discordapp.com/attachments/929452674649292862/965721915228586124/unk45534543nown.png"></p>
-<p align="center"><img width=60% src="https://cdn.discordapp.com/attachments/929452674649292862/965721827215278170/unknown.png"></p>
+<p align="center"><img width=60% src="https://cdn.discordapp.com/attachments/1110628587658289284/1133547799821168680/Screenshot_2023-07-25_195254.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
