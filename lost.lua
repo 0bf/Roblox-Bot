@@ -1,4 +1,4 @@
-_G.thingtosay = "FREE | BoogetFling | .gg/GC34hCkpcM" 
+_G.thingtosay = "JOIN CWASHY ADD | 0bf. | THEY ARE FIGHTING!!" 
 if not _G.shoption then _G.shoption = "largest" end
 wait(5) if not game:IsLoaded() then game.Loaded:Wait() end
 
