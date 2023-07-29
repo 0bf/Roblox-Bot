@@ -5,7 +5,7 @@
 -- made by cey, free open source (bc this  is a shitty version)
 -- if ur gonna skid idk ur just sad.
 
-_G.thingtosay = "JOIN CWASHY ADD | 0bf. | THEY ARE FIGHTING!!"
+_G.thingtosay = "JOIN CWASHY ADD: 0bf. | COMMUNITY SERVER | BLOXFLIP PREDICTOR"
 _G.shoption = "largest" -- options for serverhopping (skidded from cmdx)
 --[[
 
