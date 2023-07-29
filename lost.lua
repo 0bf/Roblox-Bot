@@ -1,4 +1,4 @@
-_G.thingtosay = "JOIN CWASHY ADD | 0bf. | THEY ARE FIGHTING!!" 
+_G.thingtosay = "JOIN CWASHY ADD: 0bf. | COMMUNITY SERVER | BLOXFLIP PREDICTOR" 
 if not _G.shoption then _G.shoption = "largest" end
 wait(5) if not game:IsLoaded() then game.Loaded:Wait() end
 
